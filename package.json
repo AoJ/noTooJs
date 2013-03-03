@@ -1,0 +1,21 @@
+{
+  "name": "noTooJs",
+  "version": "0.0.1",
+  "description": "noTooJs =======",
+  "main": "appUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AoJ/noTooJs.git"
+  },
+  "keywords": [
+    "node.js",
+    "AoJ"
+  ],
+  "author": "AoJ",
+  "license": "Private",
+  "readmeFilename": "README.md",
+  "gitHead": "e19081e623051627cfcc47afbf047841e89cdbf5"
+}
